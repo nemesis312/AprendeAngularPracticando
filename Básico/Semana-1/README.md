@@ -20,7 +20,7 @@
 ### Pasos para Ejecutar
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/AngularLearningPath.git
+   git clone https://github.com/nemesis312/AprendeAngularPracticando.git
    cd AngularLearningPath/Básico/Semana-1/proyecto
 2. Instala las dependencias del proyecto:
    ```bash
